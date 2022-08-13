@@ -3,7 +3,7 @@
 ![CodeWars](https://www.codewars.com/users/magicdude4eva/badges/large)
 
 ### Introduction
-[Codewars](https://www.codewars.com) is an educational online platform for computer programming. On
+[Codewars](https://www.codewars.com/r/xfz--w) is an educational online platform for computer programming. On
 the platform, users aka "*codewarriors*" try to solve programming challenges known as "*kata*" to
 practice programming skills and gain honor points, which represent the level of respect a user has
 earned from the community. Each kata is set to a kyū rank, based on its subject area and difficulty.
