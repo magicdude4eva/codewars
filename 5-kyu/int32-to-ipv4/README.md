@@ -16,3 +16,8 @@ Examples
 2149583361 ==> "128.32.10.1"
 32         ==> "0.0.0.32"
 0          ==> "0.0.0.0"
+
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=magicdude4eva.magicdude4eva)
+
