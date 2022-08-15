@@ -11,3 +11,5 @@ Example: n = 86240 should return "(2**5)(5)(7**2)(11)"
 ```
 
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=magicdude4eva.magicdude4eva)
+
