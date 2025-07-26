@@ -98,5 +98,6 @@ At this level the kata is only challenging for users new to programming. This in
 * Fixing basic syntax issues
 * Trivial algorithms such as basic if/else statements
 
+## Donations are always welcome
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=magicdude4eva.magicdude4eva)
